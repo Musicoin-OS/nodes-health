@@ -57,7 +57,7 @@ git push
 ```sh
 */5 * * * * su -s /bin/bash www-data -c '/usr/local/bin/autopush'
 ```
-#### Repository to host
+#### Nodes Repository
 
 - [music-bootnodes](https://github.com/cryptofuture/music-bootnodes)
 
