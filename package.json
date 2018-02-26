@@ -1,0 +1,15 @@
+{
+  "name": "nodes-health",
+  "version": "0.0.1",
+  "description": "Check gmc nodes health and save to the bootnodes.json file",
+  "main": "index.js",
+  "author": "admin@hda.me",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "ip-port-regex": "^2.0.0",
+    "jayson": "^2.0.5",
+    "lodash": "^4.17.5",
+    "portscanner": "file:local_modules/portscanner"
+  }
+}
